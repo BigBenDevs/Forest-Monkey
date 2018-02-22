@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Monkey
+comment0.text=\r\n\ The\ monkey\ is\ the\ main\ character.\ \ It\ must\ navigate\ the\ world\ and\ eat\ the\ bananas\r\n\ while\ avoiding\ the\ snakes\ and\ hawks.\ \ Getting\ eaten\ by\ a\ snake\ or\ hawk\ will\ end\ the\r\n\ game.\ \ Eat\ all\ 5\ bananas\ and\ win\ the\ game.\r\n\ \r\n\ @author\ (Benjamin\ Presley)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Monkey\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ isKeyDown()
+comment2.text=\r\n\ Move\ monkey\ using\ "Up","Down","Left","Right"\ keys\r\n
+comment3.params=
+comment3.target=void\ lookForBanana()
+comment3.text=\r\n\ Collect\ the\ bananas\ when\ touching\r\n
+comment4.params=
+comment4.target=void\ endGame()
+numComments=5

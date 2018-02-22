@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ This\ world\ plays\ when\ the\ player\ loses\ the\ game.\r\n\ \r\n\ @author\ (Benjamin\ Presley)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=GameOver()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOver.\r\n\ \r\n
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hawk
+comment0.text=\r\n\ The\ hawk\ moves\ from\ right\ to\ left,\ hunting\ the\ Monkey.\ \ If\ the\ hawk\ makes\ contact\ with\ the\r\n\ monkey,\ the\ game\ is\ over.\r\n\ \r\n\ @author\ (Benjamin\ Presley)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Hawk\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\r\n\ Check\ and\ see\ if\ the\ hawk\ is\ at\ the\ left\ edge\ of\ the\ world.\ \ \r\n
+comment3.params=
+comment3.target=void\ removeHawk()
+comment3.text=\r\n\ Remove\ hawk\ if\ it\ is\ at\ the\ edge\ of\ screen\r\n
+comment4.params=
+comment4.target=void\ lookForMonkey()
+comment4.text=\r\n\ If\ touching\ Monkey,\ end\ game\r\n
+numComments=5

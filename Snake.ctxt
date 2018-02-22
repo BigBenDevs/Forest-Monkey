@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ The\ snake\ is\ one\ of\ the\ enemies.\ \ It\ will\ randomly\ move\ around.\ \ If\ the\ snake\r\n\ makes\ contact\ with\ the\ monkey,\ the\ game\ ends.\r\n\ \r\n\ @author\ (Benjamin\ Presley)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ lookForMonkey()
+comment2.text=\r\n\ Look\ for\ the\ monkey\ actor.\ \ If\ contact\ is\ made,\ end\ game.\r\n
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\r\n\ Selects\ a\ random\ number\ for\ turning\r\n
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment4.text=\r\n\ Turns\ snake\ when\ at\ edge\ of\ world\r\n
+numComments=5

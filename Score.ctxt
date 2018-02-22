@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Class\ Score\ provides\ a\ visual\ score\ count\ of\ bananas\ eaten.\ \ Player\ needs\ to\ eat\r\n\ 5\ bananas\ to\ win.\r\n\ \r\n\ @author\ (Benjamin\ Presley)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Create\ a\ green\ scoreboard\ with\ transparent\ background\r\n
+comment2.params=
+comment2.target=void\ addScore()
+numComments=3
